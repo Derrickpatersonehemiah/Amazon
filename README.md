@@ -21,3 +21,7 @@ How to run code locally:
 3.Tests can also be run in UI mode using : npx playwright test --ui
 
 
+Manual Test cases:
+
+https://docs.google.com/spreadsheets/d/1ojjrX3h_wzuDVp07EKABHxugNyqDneNa70p3eSwm-7E/edit?usp=sharing
+
