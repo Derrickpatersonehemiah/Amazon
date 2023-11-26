@@ -1,7 +1,7 @@
 # Playwright-Tests #JS
 
 Description:
-To Performa actions on Amazon.com, a test mail id was created and used for login.
+To Perform actions on Amazon.com, a test mail id was created and used for login.
 
 Automation code for Amazon functionalities mentioned in test cases are created as different spec.js files which are all created as a data driven method from JSON file in serial mode.
 Code is constructed with Page Object Model, and the tests to run in chrome browser in headed mode (other browsers can be added in config.js file for cross browser testings)
